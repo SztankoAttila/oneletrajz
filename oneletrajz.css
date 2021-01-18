@@ -1,0 +1,24 @@
+.fo {
+    background-color: grey;
+    font-size: 15px;
+}
+.lk {
+    font-size: 25px;
+    line-break: normal;
+}
+.ido {
+    background-color: red;
+}
+#cim {
+    font-size: 35px;
+    text-align: center;
+}
+#kep {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: auto;
+  float: right;
+  border: 5px solid gray;
+}
